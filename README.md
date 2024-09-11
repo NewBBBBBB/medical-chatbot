@@ -26,7 +26,7 @@ DocGPT is a Streamlit-based web application that uses OpenAI’s GPT-3.5-turbo m
 - **Real-time Updates**: Immediate health advice and recommendations for further action.
 
 ## Usage/Examples
-- Navigate to [this link]([https://mainpy-bdsvmuauaxpfpcpkd69boc.streamlit.app/](https://docgpt-ai.streamlit.app/))
+- Navigate to [this link](https://docgpt-ai.streamlit.app/)
 - Enter symptoms or upload images of affected areas for a preliminary diagnosis and advice.
 
 ### Notes
